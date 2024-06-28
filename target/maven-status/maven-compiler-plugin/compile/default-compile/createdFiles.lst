@@ -1,0 +1,6 @@
+com\configuration\Base.class
+com\utilities\Utilities.class
+com\learnpages\HomePage.class
+com\learnpages\LoginPage.class
+com\pages\LoginPage1.class
+com\pages\HomePage1.class
